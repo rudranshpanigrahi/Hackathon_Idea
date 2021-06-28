@@ -1,4 +1,5 @@
 # ADDING Ideas:
+IDEA 1
 Traffic situational awareness app 
 using Semi Blockchain technology
 Description:-I t will be an app which will enable users 
